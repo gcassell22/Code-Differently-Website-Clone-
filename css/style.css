@@ -1,0 +1,39 @@
+
+nav {
+    background-color: white;
+    overflow: hidden;
+}
+
+#logo {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+nav a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+}
+
+nav a:hover {
+    text-decoration: underline orange;
+}
+
+#contact {
+    font-size: 15px;
+    padding: 14px 16px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+}
+
+.subtitle {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
