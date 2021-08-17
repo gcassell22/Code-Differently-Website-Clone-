@@ -1,0 +1,9 @@
+footer {
+    background-color: blue;
+}
+
+div {
+    position: absolute;
+    right: 20px;
+        top: 30px;
+  }
