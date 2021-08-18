@@ -35,5 +35,61 @@ nav a:hover {
 
 .subtitle {
     font-family: "Poppins", sans-serif;
+    font-weight: 900;
+}
+.underline {
+    text-decoration: underline orange 5px;
+}
+#textbox {
+    font-family: "Poppins", sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    width: 700px;
+    position: relative;
+    left: 300px;
+}
+.sub-subtitle {
+    font-family: "Poppins", sans-serif;
     font-weight: 700;
+}
+p {
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+}
+.programs {
+    display: inline-block;
+    padding: 15px;
+}
+.program-buttons {
+    background-color: white;
+    border-radius: 10%;
+    padding: 15px;
+    width: 100px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+.program-buttons:hover {
+    background-color: orange;
+    color: white;
+}
+#left {
+    position: relative;
+    left: 550px;
+}
+.reasons {
+    display: inline-block;
+    padding: 100px;
+    text-align: center;
+}
+
+
+
+h4 {
+    font-family: "Open Sans", sans-serif;
+}
+.involved {
+    color: white;
+    background: orange;
+    border: none;
+    padding: 20px;
 }
